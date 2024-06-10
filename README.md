@@ -1,3 +1,4 @@
 # FCC-Registration-Form
-freecodecamp certification project
-survey form
+## Responsive Web Design Certification
+### Certification Project: Survey Form
+For this project, I decided to make a Market Research Survey form.
